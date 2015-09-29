@@ -14,13 +14,12 @@
 }
 #plane {
 	position:absolute;
-width:100px;
-height:100px;
-top:200px;
-left:300px;
-
-background-image: url(plane.png);
-background-size:100px 100px;
+	width:100px;
+	height:100px;
+	top:200px;
+	left:300px;
+	background-image: url(plane.png);
+	background-size:100px 100px;
 }
 
 #plane:target {
